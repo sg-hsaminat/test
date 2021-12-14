@@ -1,0 +1,17 @@
+{
+  "schemaVersion": 2,
+  "components": [
+    {
+      "label": "Invoice Number",
+      "type": "textfield",
+      "id": "Field_1uti22v",
+      "key": "invoiceNumber",
+      "description": "Enter the invoice number",
+      "validate": {
+        "required": true
+      }
+    }
+  ],
+  "type": "default",
+  "id": "Form_1hcnuww"
+}
